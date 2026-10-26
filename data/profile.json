@@ -1,0 +1,54 @@
+{
+    "name": "Hikmatul Khafidhoh",
+    "description": "Saya merupakan lulusan D3 Teknik Elektronika Politeknik Negeri Semarang yang memiliki pengalaman praktik kerja di bidang maintenance dan operasional produksi. Selama menempuh pendidikan, saya mempelajari dasar-dasar elektronika, instalasi kelistrikan, sistem kontrol, dan otomasi industri, serta mengembangkan kemampuan melalui berbagai proyek elektronika. Saya terbiasa bekerja sesuai prosedur, menjaga ketelitian, dan berkoordinasi dengan tim untuk menyelesaikan pekerjaan. Saya memiliki kemauan untuk terus belajar, mengembangkan keterampilan, dan menerapkan ilmu yang telah diperoleh untuk mendukung pekerjaan di lingkungan industri.",
+    "profileImage": "images/profile.jpg",
+    "email": "hikmatulkhafidhoh6@gmail.com",
+    "phone": "+6285157450447",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/hikmatul-khafidhoh-68678a40b/"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/Hikmatulkhafidhoh"
+        }
+    ],
+    "cv": {
+        "text": "Download CV",
+        "file": "docs/CV.pdf",
+        "icon": "fas fa-file-pdf"
+    },
+    "skills": [
+        {
+            "name": "Pemeliharaan & Troubleshooting Kelistrikan",
+            "icon": "fas fa-bolt",
+            "level": 75
+        },
+        {
+            "name": "Pemrograman PLC (Dasar Omron)",
+            "icon": "fas fa-microchip",
+            "level": 75
+        },
+        {
+            "name": "Otomasi Industri",
+            "icon": "fas fa-gears",
+            "level": 75
+        },
+        {
+            "name": "Sistem Mikrokontroler (ESP32/Arduino)",
+            "icon": "fas fa-memory",
+            "level": 75
+        },
+        {
+            "name": "Pengembangan IoT",
+            "icon": "fas fa-wifi",
+            "level": 75
+        },
+        {
+            "name": "Microsoft Office",
+            "icon": "fas fa-file-word",
+            "level": 80
+        }
+    ]
+}

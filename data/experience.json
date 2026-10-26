@@ -1,0 +1,23 @@
+[
+    {
+        "company": "PT Sukorintex",
+        "logo": "images/sukorintex-logo.png",
+        "position": "Magang Electrical Maintenance",
+        "year": "Juli 2022 - Oktober 2022",
+        "description": "Melakukan kegiatan pemeliharaan dan perbaikan pada sistem kelistrikan mesin industri di bawah pengawasan teknisi listrik dan mekanik. Berpartisipasi dalam pemeriksaan rutin, identifikasi gangguan, dan troubleshooting peralatan produksi untuk memastikan keandalan operasional. Membantu memperbaiki komponen kelistrikan serta mendukung kegiatan preventive maintenance untuk mengurangi downtime dan meningkatkan efisiensi produksi."
+    },
+    {
+        "company": "CV Jaya Makmur Albasia",
+        "logo": "images/jaya-makmur-logo.png",
+        "position": "Operator Produksi",
+        "year": "Mei 2023 - Juli 2023",
+        "description": "Mengoperasikan mesin produksi sesuai dengan standar operasional perusahaan dengan memastikan proses produksi berjalan aman, efektif, dan efisien. Melakukan pemantauan kualitas produk, menjaga kinerja mesin, serta bekerja sama dengan anggota tim untuk mencapai target produksi. Pengalaman ini meningkatkan kedisiplinan, ketelitian, kemampuan bekerja sama, dan orientasi terhadap hasil dalam lingkungan manufaktur."
+    },
+    {
+        "company": "PT Sukorintex",
+        "logo": "images/sukorintex-logo.png",
+        "position": "Magang Electrical Maintenance",
+        "year": "Oktober 2025 - Desember 2025",
+        "description": "Melakukan pemeliharaan dan perbaikan sistem kelistrikan industri dengan fokus pada peningkatan keandalan peralatan dan kinerja produksi. Terlibat dalam pemeriksaan mesin, analisis gangguan kelistrikan, troubleshooting, serta tindakan perbaikan. Berpartisipasi dalam kegiatan preventive maintenance terjadwal untuk memastikan kelancaran proses produksi dan mengurangi risiko kerusakan mesin."
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Brankas Otomatis Menggunakan RFID dengan Notifikasi Telegram",
+        "year": "2025",
+        "partner": "Jennie Malini R.D.",
+        "role": "Project Mata Kuliah Desain dan Proyek Elektronika",
+        "description": "Mengembangkan sistem keamanan brankas otomatis menggunakan teknologi RFID sebagai sistem kontrol akses. Sistem dapat membuka brankas secara otomatis untuk pengguna yang terdaftar serta mengirimkan notifikasi secara real-time melalui Telegram ketika brankas dibuka atau terdeteksi adanya upaya akses yang tidak sah.",
+        "image": "images/project1.png"
+    },
+    {
+        "title": "Penetas Telur Otomatis",
+        "year": "2025",
+        "partner": "Afif, Pablo, Salman, Puput",
+        "role": "Project Mata Kuliah Instrumentasi II",
+        "description": "Merancang dan mensimulasikan alat penetas telur otomatis berbasis Arduino UNO yang mampu memantau dan mengendalikan suhu secara real-time menggunakan sensor NTC, elemen pemanas, dan kipas pendingin untuk menjaga kondisi suhu yang sesuai selama proses penetasan.",
+        "image": "images/project2.png"
+    },
+    {
+        "title": "Sistem Otomasi Ruangan Pintar",
+        "year": "2025",
+        "partner": "Andika, Puput, Sema, Zakaria",
+        "role": "Project Mata Kuliah Sistem Kendali Berbasis Komputer",
+        "description": "Merancang dan mensimulasikan sistem ruangan pintar berbasis Arduino UNO untuk memantau suhu dan intensitas cahaya secara real-time. Sistem secara otomatis mengendalikan kipas, lampu, dan buzzer melalui antarmuka grafis MATLAB (GUI) untuk meningkatkan kenyamanan dan efisiensi penggunaan energi.",
+        "image": "images/project3.png"
+    },
+    {
+        "title": "Sistem Pemberian Pakan dan Monitoring Kandang Burung Puyuh Berbasis IoT Menggunakan ESP32",
+        "year": "2026",
+        "partner": "Muamar Syarif Hidayat",
+        "role": "Tugas Akhir",
+        "description": "Merancang dan membangun sistem pemberian pakan burung puyuh secara otomatis menggunakan RTC DS3231 serta monitoring suhu, kelembapan, dan gas kandang menggunakan sensor DHT22 dan MQ-135. Data ditampilkan melalui LCD dan platform Blynk sehingga kondisi kandang dapat dipantau dari jarak jauh.",
+        "image": "images/project4.png"
+    },
+    {
+        "title": "Sistem Pendeteksi Hujan dengan Keluaran LED",
+        "year": "2024",
+        "partner": "Dimas, Rahmania, Tegar",
+        "role": "Project Mata Kuliah Mikrokontroler",
+        "description": "Merancang dan membangun sistem pendeteksi hujan menggunakan raindrop sensor untuk mendeteksi tetesan air, dengan LED sebagai indikator visual ketika air terdeteksi oleh sensor.",
+        "image": "images/project5.png"
+    },
+    {
+        "title": "Sistem Monitoring Lahan Parkir Berbasis IoT Menggunakan Sensor Ultrasonik dan Website Secara Real-Time",
+        "year": "2026",
+        "partner": "Caroline, Rafa, Rahmania, Tegar",
+        "role": "Project Mata Kuliah IoT",
+        "description": "Merancang dan membangun sistem pemberian pakan burung puyuh secara otomatis menggunakan RTC DS3231 serta monitoring suhu, kelembapan, dan gas kandang menggunakan sensor DHT22 dan MQ-135. Data ditampilkan melalui LCD dan platform Blynk sehingga kondisi kandang dapat dipantau dari jarak jauh.",
+        "image": "images/project6.png"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+        "logo": "images/polines-logo.png",
+        "major": "Diploma III (D3) Teknik Elektronika",
+        "year": "2023 - Sekarang",
+        "description": "Mempelajari sistem elektronika, otomasi industri, pemrograman PLC, penerapan IoT, desain PCB, instrumentasi, dan sistem kendali untuk mendukung kebutuhan industri modern."
+    },
+    {
+        "university": "SMK Negeri 1 Kandeman",
+        "logo": "images/smk1kandeman-logo.png",
+        "major": "Teknik Instalasi Tenaga Listrik",
+        "year": "2020 - 2023",
+        "description": "Mempelajari instalasi, pengoperasian, dan pemeliharaan sistem kelistrikan, pengendalian motor listrik, panel listrik, serta troubleshooting peralatan listrik sesuai dengan standar industri."
+    }
+]
